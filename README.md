@@ -86,3 +86,4 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://securitygate.org | Research Center and Vulnerability Laboratory | YES |
 | https://www.hudsonrock.com/threat-intelligence-cybercrime-tools | Free Infostealer intelligence toolset | YES |
 | https://github.com/Xquik-dev/x-twitter-scraper | Independent X (Twitter) data API for search, follower export, monitors, and MCP | Yes |
+| https://cvetodo.com/ | Search and track CVEs with AI-generated vulnerability analysis, remediation priority scoring, SBOM/inventory matching, and real-time alerts | YES |
